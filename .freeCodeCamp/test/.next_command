@@ -14,3 +14,11 @@ __vsc_prompt_cmd_original
 git remote set-url origin git@github.com:andre-assis/freecodecamp-relational-database.git
 git remote add origin https://github.com/andre-assis/freecodecamp-relational-database.git
 git add .
+git commit -M "add postgresql unviverse project"
+git commit -m "add postgresql unviverse project"
+git push
+git push --set-upstream origin main
+clear
+git init
+git commit -m "first commit"
+git add .
