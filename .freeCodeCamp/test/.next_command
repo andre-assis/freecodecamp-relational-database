@@ -1,0 +1,16 @@
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
+pg_dump -cC --inserts -U freecodecamp universe.sql
+pg_dump -cC --inserts -U freecodecamp universe.sql
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git remote add origin https://github.com/andre-assis/freecodecamp-relational-database.git
+git remote add origin https://github.com/andre-assis/freecodecamp-relational-database.git
+__vsc_prompt_cmd_original
+git remote set-url origin https://github.com/andre-assis/freecodecamp-relational-database.git
+git remote add origin https://github.com/andre-assis/freecodecamp-relational-database.git
+__vsc_prompt_cmd_original
+git remote set-url origin git@github.com:andre-assis/freecodecamp-relational-database.git
+git remote add origin https://github.com/andre-assis/freecodecamp-relational-database.git
+git add .
